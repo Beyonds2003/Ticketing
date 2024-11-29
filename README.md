@@ -3,9 +3,9 @@
     Ticketing
   </h1>
   <br />
-    <div>
-      <video src="./client/public/ticketing-video.mp4" alt="Project Banner">
-    </div>
+
+   https://github.com/user-attachments/assets/bc71a418-6b7c-42d0-9955-7995449a7df3
+
   <br />
 
   <div>
